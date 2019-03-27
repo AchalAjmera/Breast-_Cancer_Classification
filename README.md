@@ -1,4 +1,4 @@
-reast Cancer Wisconsin (Diagnostic) Database
+Breast Cancer Wisconsin (Diagnostic) Database
 =============================================
 
 Notes
